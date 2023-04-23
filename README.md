@@ -1,0 +1,2 @@
+# pokemonjuttu
+js-kurssi
