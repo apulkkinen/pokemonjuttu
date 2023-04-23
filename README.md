@@ -1,2 +1,2 @@
 # pokemonjuttu
-Javascript-kurssia varten tehty projekti, aikataulullisista syistä, ulkonäkö on puutteellinen.
+Javascript-kurssia varten tehty projekti. Aikataulullisista syistä ulkonäkö on puutteellinen, lievästi sanottuna.
